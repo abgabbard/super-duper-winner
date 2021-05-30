@@ -2,7 +2,7 @@ body {
   background-color: turquoise;
   margin: 10;
   padding: 10;
-  color: white;
+
 }
 /* 
 selector {
@@ -14,7 +14,11 @@ selector {
     prop: "value";
 } */
 
-
+.grid-item-4 {
+  background-color: rgb(134, 150, 150);
+  margin: 10px;
+  padding: 5px;
+}
 .grid-container {
   display: grid;
   color: black;
