@@ -26,6 +26,7 @@ function runner() {
 function foodSelector() {
     document.getElementById("btnseven").innerHTML = "Refresh";
   }
-function randogeno() {
-    document.getElementById("btneight").innerHTML = "Refresh";
+  function randogeno() {
+    document.getElementById("demo").addEventListener("click", randogeno);
+    document.getElementById("demo").innerHTML = "Hello World";
   }
