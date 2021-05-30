@@ -1,8 +1,8 @@
 body {
-    background-color: turquoise;
-    margin: 5;
-    padding: 5;
-    color:  white;
+  background-color: turquoise;
+  margin: 5;
+  padding: 5;
+  color: white;
 }
 /* 
 selector {
@@ -14,45 +14,53 @@ selector {
     prop: "value";
 } */
 
-
 .big-header {
-    color: red;
-
+  color: red;
 }
 
 h2 {
-    color: royalblue;
+  color: royalblue;
 }
 
 .btn {
-    font-size: 50px;
+  font-size: 50px;
+  padding: 8px;
+  margin: 3px;
 }
 
 .btn-1 {
-    background-color: rgb(206, 191, 171);
-    
-        } 
+  background-color: rgb(206, 191, 171);
+}
 
 .btn-2 {
-    background-color: rgb(176, 107, 18);
-
-    } 
+  background-color: rgb(176, 107, 18);
+}
 
 .btn-3 {
-    background-color: rgb(213, 190, 160);} 
+  background-color: rgb(213, 190, 160);
+}
 
 .btn-4 {
-    background-color: rgb(20, 30, 15);
-    color: white;
-        }  
-.btn-5 {background-color: rgb(18, 201, 195);} 
+  background-color: rgb(20, 30, 15);
+  color: white;
+}
+.btn-5 {
+  background-color: rgb(18, 201, 195);
+}
 
-.btn-6 {background-color: rgb(163, 235, 18);} 
+.btn-6 {
+  background-color: rgb(163, 235, 18);
+}
 
-.btn-7 {background-color: rgb(128, 215, 106);} 
+.btn-7 {
+  background-color: rgb(128, 215, 106);
+}
 
-.btn-8 {background-color: rgb(23, 157, 228);} 
+.btn-8 {
+  background-color: rgb(23, 157, 228);
+}
 
-
-
-
+.container {
+        margin: 5px;
+        padding: 10px;
+}
