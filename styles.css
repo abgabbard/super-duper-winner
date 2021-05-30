@@ -14,8 +14,14 @@ selector {
     prop: "value";
 } */
 
+.htwobody {
+  margin: 10px;
+  padding: 10px;
+}
 .big-header {
   color: red;
+  margin: 10px;
+  padding: 10px;
 }
 
 h2 {
@@ -63,4 +69,12 @@ h2 {
 .container {
         margin: 5px;
         padding: 10px;
+}
+
+.containertwo {
+  background-color: purple;
+}
+
+.rowtwo {
+  background-color: white;
 }
