@@ -1,7 +1,7 @@
 body {
   background-color: turquoise;
-  margin: 5;
-  padding: 5;
+  margin: 10;
+  padding: 10;
   color: white;
 }
 /* 
@@ -13,6 +13,16 @@ selector {
 .class-name {
     prop: "value";
 } */
+
+
+.grid-container {
+  display: grid;
+  color: black;
+  /* grid-template-columns: 2fr 1fr; */
+  grid-template-columns: repeat(4, 125px);
+  grid-template-rows: repeat(1, 250px);
+  font-size: 35px;;
+}
 
 .htwobody {
   margin: 10px;
