@@ -1,0 +1,58 @@
+body {
+    background-color: turquoise;
+    margin: 5;
+    padding: 5;
+    color:  white;
+}
+/* 
+selector {
+    property1:0; value: 0;
+    property2:0; value: 0;
+} */
+/* 
+.class-name {
+    prop: "value";
+} */
+
+
+.big-header {
+    color: red;
+
+}
+
+h2 {
+    color: royalblue;
+}
+
+.btn {
+    font-size: 50px;
+}
+
+.btn-1 {
+    background-color: rgb(206, 191, 171);
+    
+        } 
+
+.btn-2 {
+    background-color: rgb(176, 107, 18);
+
+    } 
+
+.btn-3 {
+    background-color: rgb(213, 190, 160);} 
+
+.btn-4 {
+    background-color: rgb(20, 30, 15);
+    color: white;
+        }  
+.btn-5 {background-color: rgb(18, 201, 195);} 
+
+.btn-6 {background-color: rgb(163, 235, 18);} 
+
+.btn-7 {background-color: rgb(128, 215, 106);} 
+
+.btn-8 {background-color: rgb(23, 157, 228);} 
+
+
+
+
